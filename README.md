@@ -9,6 +9,6 @@ This projects provides the top 50 of reddit's posts
 
 ## Run application
 
-### `npm install`
-### `npm start`
+`npm install`
+`npm start`
 
