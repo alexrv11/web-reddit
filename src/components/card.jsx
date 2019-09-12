@@ -6,7 +6,7 @@ const { Meta } = Card;
 
 const CardReddit = (props) => {
     const handleClick = () => {
-      console.log("Hello")
+      props.location.push('/details');
     }
 
     const { image, title, description, icon_avatar } = props.post
